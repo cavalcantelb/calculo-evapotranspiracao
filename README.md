@@ -4,7 +4,7 @@ Os seis scripts acima compõe a pesquisa desenvolvida durante o mestrado em mete
 
 * Albedo da superfície;
 * Índice de vegetação por diferença normalizada;
-* ìndice de vegetação ajsutado ao solo;
+* Índice de vegetação ajsutado ao solo;
 * Índice de área foliar;
 * Temperatura da superfície;
 * Saldo de radiação;
