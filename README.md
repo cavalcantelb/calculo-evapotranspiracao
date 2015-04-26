@@ -13,5 +13,4 @@ Os seis scripts acima compõe a pesquisa desenvolvida durante o mestrado em mete
 * Fluxo de calor latente e
 * Evapotranspiração real horária.
 
-O *download* do *software* SPRING pode ser realizado através do sítio <http://www.dpi.inpe.br/spring/>, posui versão para sistema operacional Windows e Linux (sistema utilizado nesta pesquisa).
-
+O *download* do *software* SPRING pode ser realizado através do sítio <http://www.dpi.inpe.br/spring/>, posui versão para sistema operacional Windows e Linux (sistema utilizado nesta pesquisa). O SPRING possui o compilador da LEGAL embutido no seu ambiente gráfico.
