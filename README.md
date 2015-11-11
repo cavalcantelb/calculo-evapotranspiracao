@@ -19,8 +19,8 @@ O *download* do *software* SPRING pode ser realizado através do sítio <http://
 
 Você tem o direito de:
 
-*8Compartilhar8* — copiar e redistribuir o material em qualquer suporte ou formato
-*8Adaptar*8 — remixar, transformar, e criar a partir do material
+**Compartilhar** — copiar e redistribuir o material em qualquer suporte ou formato
+**Adaptar** — remixar, transformar, e criar a partir do material
 para qualquer fim, mesmo que comercial.
 
 O licenciante não pode revogar estes direitos desde que você respeite os termos da licença.
